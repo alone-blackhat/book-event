@@ -1,0 +1,6 @@
+{
+  "name": "Bookverse",
+  "description": "Bookverse - All Books 3D Event Experience: A premium interactive single-page book event showcase with gorgeous 3D styles, virtual displays, and custom interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
